@@ -1,0 +1,17 @@
+{
+  "name": "duration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Arjun N",
+  "license": "ISC",
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^13.1.7",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
